@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
