@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
