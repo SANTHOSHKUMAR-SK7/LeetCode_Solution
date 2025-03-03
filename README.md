@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0953-reverse-only-letters) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
