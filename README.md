@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
