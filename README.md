@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0953-reverse-only-letters) |
 ## Matrix
