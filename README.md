@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/0953-reverse-only-letters) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SANTHOSHKUMAR-SK7/LeetCode_Solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Matrix
 |  |
 | ------- |
