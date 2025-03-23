@@ -8,7 +8,7 @@ class Solution {
         }
         else{
             int sum=0;
-            while(n>9){
+            while(n>0){
                 int temp=n%10;
                 sum=sum+temp*temp;
                 n=n/10;
