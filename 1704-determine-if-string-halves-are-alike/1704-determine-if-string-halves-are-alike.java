@@ -1,19 +1,17 @@
 class Solution {
     public boolean halvesAreAlike(String s) {
-      s=s.toLowerCase();
-      int len=s.length();
-      int Fcount=0;
-      int Scount=0;
-      for(int i=0;i<len/2;i++){
-        if(s.charAt(i)=='a'||s.charAt(i)=='e'||s.charAt(i)=='i'||s.charAt(i)=='o'||s.charAt(i)=='u'){
-            Fcount++;
+        int len = s.length();
+        return CountVowel(s,0,len/2)==CountVowel(s,len/2,len);
+    }
+
+    public int CountVowel(String s, int start, int last) {
+        int count=0;
+        for (int i = start; i < last; i++) {
+            if (s.charAt(i) == 'a' || s.charAt(i) == 'e' || s.charAt(i) == 'i' || s.charAt(i) == 'o'
+                    || s.charAt(i) == 'u'|| s.charAt(i) == 'A'|| s.charAt(i) == 'E'|| s.charAt(i) == 'I'|| s.charAt(i) == 'O'|| s.charAt(i) == 'U') {
+                count++;
+            }
         }
-      }
-      for(int i=len/2;i<len;i++){
-        if(s.charAt(i)=='a'||s.charAt(i)=='e'||s.charAt(i)=='i'||s.charAt(i)=='o'||s.charAt(i)=='u'){
-            Scount++;
-        }
-      }
-      return Fcount==Scount;
+        return count;
     }
 }
